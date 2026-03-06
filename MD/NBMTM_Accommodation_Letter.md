@@ -1,4 +1,3 @@
-# Statement of Medical Necessity and Clinical Hardship
 
 **\[Physician's Office Letterhead\]**\
 **\[Clinic Name\]**\
@@ -6,7 +5,7 @@
 **\[Phone/Email\]**
 
 **DATE:** February 27, 2026
-hello anh Huy
+
 **TO:** National Board of Medication Therapy Management (NBMTM)\
 **ATTN:** Testing Accommodations Center / Office of the Registrar
 
@@ -15,11 +14,10 @@ hello anh Huy
 
 ------------------------------------------------------------------------
 
-## To the Members of the Board,
 
 I am writing this statement to verify the medical necessity and
 extraordinary hardship supporting the request for a **30-day Test Window
-Extension** for Dr. Pete Ngoc Pham.
+Extension** for Dr. pter Ngoc Pham.
 
 ------------------------------------------------------------------------
 
@@ -51,7 +49,7 @@ duties at a regional medical center, created a documented scheduling
 conflict that obstructed his ability to meet the registration deadline.
 
 ------------------------------------------------------------------------
-
+fsdgjkshdkgjhsjghsfgfd
 ## Recommended Accommodation
 
 In my clinical opinion, Dr. Pham is now in a position where the
@@ -105,3 +103,4 @@ Per Page 15 of your PDF:
 -   Email the scanned packet to **contact@nbmtm.org**\
 -   Call **(202) 489-0506** to confirm the "Accommodation Packet" has
     been moved to the Registrar's desk for manual review.
+sdjgkfbkjgdjkfg
