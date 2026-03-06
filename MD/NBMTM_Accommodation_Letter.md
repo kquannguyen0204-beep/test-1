@@ -6,7 +6,7 @@
 **\[Phone/Email\]**
 
 **DATE:** February 27, 2026
-
+hello anh Huy
 **TO:** National Board of Medication Therapy Management (NBMTM)\
 **ATTN:** Testing Accommodations Center / Office of the Registrar
 
